@@ -1,6 +1,6 @@
 ### Gabriella Meira' GitHub Stats
 
-![Gabriella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabriellaMeiras&show_icons=true&theme=radical&hide=contribs,issues)
+![GabriellaMeira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabriellaMeira&show_icons=true&theme=radical&hide=contribs,issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabriellaMeira&layout=compact&theme=radical)
 
